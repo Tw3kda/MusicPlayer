@@ -1,5 +1,4 @@
-package main.java.edu.unisabana.dyas.patterns.utils;
-
+package edu.unisabana.dyas.patterns.utils;
 // Clase que implementa una interfaz diferente
 public class AdvancedAudioPlayer {
     public void playMp4(String fileName) {
