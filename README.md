@@ -1,3 +1,6 @@
+### Nombres
+Katherin Juliana Moreno Carvajal, Santiago Navarro Cuy y Mariana Salas Gutiérrez
+
 # AudioPlayer
 
 ### Descripción del Problema:
